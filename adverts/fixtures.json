@@ -1,0 +1,57 @@
+[
+  {
+    "model": "adverts.AdvertCategories",
+    "fields": {
+      "name": "Sale weselne",
+      "icon": null
+    }
+  },
+  {
+    "model": "adverts.AdvertCategories",
+    "fields": {
+      "name": "Fotograf"
+    }
+  },
+  {
+    "model": "adverts.AdvertCategories",
+    "fields": {
+      "name": "Suknie ślubne"
+    }
+  },
+  {
+    "model": "adverts.AdvertCategories",
+    "fields": {
+      "name": "Salony ślubne"
+    }
+  },
+  {
+    "model": "adverts.AdvertCategories",
+    "fields": {
+      "name": "Zaproszenia"
+    }
+  },
+  {
+    "model": "adverts.AdvertCategories",
+    "fields": {
+      "name": "Catering"
+    }
+  },
+  {
+    "model": "adverts.AdvertCategories",
+    "fields": {
+      "name": "Cukiernie"
+    }
+  },
+  {
+    "model": "adverts.AdvertCategories",
+    "fields": {
+      "name": "DJ"
+    }
+  },
+  {
+    "model": "adverts.AdvertCategories",
+    "fields": {
+      "name": "Zespoły weselne"
+    }
+  }
+]
