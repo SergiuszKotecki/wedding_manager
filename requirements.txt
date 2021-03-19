@@ -7,7 +7,7 @@ django-braces==1.13.0
 django-countries==5.5
 django-jet==1.0.8
 django-model-utils==3.2.0
-djangorestframework==3.10.3
+djangorestframework==3.11.2
 djangorestframework-simplejwt==4.3.0
 djangorestframework-stubs==1.0.0
 drf-yasg==1.16.1
